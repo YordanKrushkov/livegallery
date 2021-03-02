@@ -15,3 +15,8 @@
 .webgl-content .footer .webgl-logo {background-image: url('podpis3.png'); background-size:cover; width: 204px; height:80px; float: left;}
 .webgl-content .footer .title {margin-right: 10px; float: right;}
 .webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right; display: none;}
+
+#unityContainer{
+    width: 100%;
+    height: 100%;
+}
